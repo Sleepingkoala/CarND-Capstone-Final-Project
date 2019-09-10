@@ -21,7 +21,7 @@
 
 ## Contributions
 
-### Traffic light detector
+### Traffic light detector (Elle Li)
 
 The detector is used to:
 
